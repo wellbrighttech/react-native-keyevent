@@ -1,5 +1,7 @@
 # React Native KeyEvent
 
+NOTE: This was forked from https://github.com/kevinejohn/react-native-keyevent since the build.gradle was out of date and incompatible w/ RN 0.69 / Expo 46
+
 [![npm version](https://badge.fury.io/js/react-native-keyevent.svg)](http://badge.fury.io/js/react-native-keyevent)
 
 Capture external keyboard keys or remote control button events
